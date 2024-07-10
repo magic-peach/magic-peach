@@ -3,10 +3,10 @@
 <h4 align="left"> I'd Rather be Binge-Watching: But, I guess coding is important too.</h4> </br>
 - 👀 I’m interested in  </br>
 - 🌱 I’m currently learning ...</br>
-- 💞️ I’m looking to collaborate on ...</br>
-- 📫 How to reach me ...</br>
-- 😄 Pronouns: ...</br>
-- ⚡ Fun fact: ...</br>
+- 💞️ I’m looking to collaborate on: </br>
+- 📫 How to reach me: github...that's it</br>
+- 😄 Pronouns: she/her</br>
+- ⚡ Fun fact: I love baking and can play the piano</br>
 - <img src='https://github-readme-stats.vercel.app/api?username=magic-peach&theme=moltack' alt='My stats'/>
 
 
