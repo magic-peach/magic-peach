@@ -27,6 +27,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magic-peach&" alt="magic-peach" /></p>
 
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+
 - uses: magic-peach/waka-readme-stats@master
   with:
       WAKATIME_API_KEY: ${{ secrets.waka_7ffbf6a3-d23c-4ab0-898a-16cadd46b955 }}
