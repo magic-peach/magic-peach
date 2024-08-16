@@ -9,7 +9,24 @@
 - ⚡ Fun fact: I love baking and can play the piano</br>
 <!---- <img src='https://github-readme-stats.vercel.app/api?username=magic-peach&theme=moltack' alt='My stats'/>
 
+<!--START_SECTION:SHOW_LINES_OF_CODE:"TRUE"-->
+name: Waka Readme
 
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: windows11
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.waka_7ffbf6a3-d23c-4ab0-898a-16cadd46b955 }}
+          GH_TOKEN: ${{ secrets.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 }}
+<!--END_SECTION:UPDATED_DATE_FORMAT-->
 <!---
 magic-peach/magic-peach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
