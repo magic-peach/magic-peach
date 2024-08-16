@@ -22,7 +22,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: windows11
     steps:
-      - uses: magic-peach/magic-peach@main
+      - uses: magic-peach/magic-peach @main
         with:
           WAKATIME_API_KEY: ${{ secrets.waka_7ffbf6a3-d23c-4ab0-898a-16cadd46b955 }}
           GH_TOKEN: ${{ secrets.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 }}
