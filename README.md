@@ -27,6 +27,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magic-peach&" alt="magic-peach" /></p>
 
+- uses: magic-peach/waka-readme-stats@master
+  with:
+      WAKATIME_API_KEY: ${{ secrets.waka_7ffbf6a3-d23c-4ab0-898a-16cadd46b955 }}
+      GH_TOKEN: ${{ secrets.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 }}
+      SHOW_OS: "True"
+      SHOW_COMMIT: "True"
+
 
 magic-peach/magic-peach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
