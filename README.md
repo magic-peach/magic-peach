@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magic-peach&label=Profile%20views&color=0e75b6&style=flat" alt="magic-peach" /> </p>
 
 
-- 🔭 I’m currently working on [RAG model](https://github.com/magic-peach/RAG-model)
+<!-- - 🔭 I’m currently working on [RAG model](https://github.com/magic-peach/RAG-model)-->
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
