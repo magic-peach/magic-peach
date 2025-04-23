@@ -27,4 +27,4 @@
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=magic-peach&theme=shades-of-purple&border=286C33&background=25%2CEB6AD3%2CEBB2EB&stroke=00EEF1&dates=7C3F13&ring=042186&fire=1023AF&currStreakNum=078100&sideNums=5B3E14&currStreakLabel=7D0000&sideLabels=F3FF0B&excludeDaysLabel=784600" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=magic-peach&theme=jolly" alt="GitHub Streak" /></a>
