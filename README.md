@@ -24,9 +24,6 @@
   <a href="https://linkedin.com/in/akanksha trehun" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksha trehun" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/akanksharavi31" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akanksharavi31" height="30" width="40" />
-  </a>
   <a href="https://discord.gg/akanksha31" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="akanksha31" height="30" width="40" />
   </a>
